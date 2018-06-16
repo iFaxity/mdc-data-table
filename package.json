@@ -1,0 +1,12 @@
+{
+  "name": "mdc-data-table",
+  "description": "My take on Material Web Components data table component",
+  "author": "ifaxity",
+  "version": "1.0.0",
+  "repository": "https://github.com/iFaxity/mdc-data-table.git",
+  "license": "MIT",
+  "dependencies": {
+    "@material/theme": "^0.35.0",
+    "@material/typography": "^0.35.0"
+  }
+}
