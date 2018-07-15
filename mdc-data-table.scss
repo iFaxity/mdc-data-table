@@ -43,6 +43,8 @@
 
   &__cell {
     font-weight: 400;
+    border-collapse: separate;
+    border-spacing: 0px;
   }
 
   &__cell, &__column {
